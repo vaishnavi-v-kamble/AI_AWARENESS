@@ -1,0 +1,179 @@
+1. Q: ChatGPT is developed by which company?
+   A: OpenAI.
+
+2. Q: Claude is developed by which AI company?
+   A: Anthropic.
+
+3. Q: Gemini is developed by which company?
+   A: Google.
+
+4. Q: Llama models are developed by which company?
+   A: Meta.
+
+5. Q: Grok is developed by which company?
+   A: xAI.
+
+6. Q: Mistral AI is headquartered in which country?
+   A: France.
+
+7. Q: What is the name of OpenAI's flagship GPT-6 frontier model?
+   A: GPT-6 Astra.
+
+8. Q: Which OpenAI model is positioned as a lower-cost model with near-Astra intelligence for coding and professional work?
+   A: GPT-6 Sol.
+
+9. Q: What is Anthropic's latest Haiku model called as of October 2026?
+   A: Claude Haiku 5.5.
+
+10. Q: What is Google's latest flagship Gemini model called as of October 2026?
+    A: Gemini 4.
+
+11. Q: What does LLM stand for?
+    A: Large Language Model.
+
+12. Q: What is Generative AI?
+    A: AI that creates new content such as text, images, audio, video, or code.
+
+13. Q: What is a prompt in Generative AI?
+    A: An instruction or input given to an AI model.
+
+14. Q: What is a system prompt?
+    A: An instruction that sets an AI model's role, behavior, and constraints.
+
+15. Q: What is an AI hallucination?
+    A: An AI-generated response that is incorrect or made up but presented as factual.
+
+16. Q: What is a token in an LLM?
+    A: A unit of text, such as a word, part of a word, or punctuation, processed by the model.
+
+17. Q: What does context window mean?
+    A: The amount of input and conversation information a model can consider at one time.
+
+18. Q: What is inference in AI?
+    A: The process of using a trained model to produce a prediction or response.
+
+19. Q: What is fine-tuning?
+    A: Further training a pretrained model on a specific dataset or task.
+
+20. Q: What does multimodal AI mean?
+    A: AI that can process or generate more than one type of data, such as text, images, audio, or video.
+
+21. Q: What is an AI agent?
+    A: An AI system that can pursue a goal by reasoning, using tools, and taking actions.
+
+22. Q: What is the main difference between a chatbot and an AI agent?
+    A: A chatbot mainly responds to messages, while an agent can plan and take actions to achieve a goal.
+
+23. Q: What does RAG stand for?
+    A: Retrieval-Augmented Generation.
+
+24. Q: Why is RAG used with LLMs?
+    A: It retrieves relevant external information to help generate more accurate and grounded answers.
+
+25. Q: What is an embedding?
+    A: A numerical representation of data that captures semantic meaning.
+
+26. Q: What is a vector database used for in AI applications?
+    A: Storing and searching vector embeddings by similarity.
+
+27. Q: What does tool calling allow an AI model to do?
+    A: Request external tools or functions to perform tasks or retrieve information.
+
+28. Q: What does MCP stand for in modern AI application development?
+    A: Model Context Protocol.
+
+29. Q: What is an API key used for?
+    A: Authenticating and authorizing access to an API.
+
+30. Q: What is meant by an agentic workflow?
+    A: A workflow in which an AI agent plans and performs multiple steps toward a goal.
+
+31. Q: Midjourney is mainly famous for generating what type of content?
+    A: Images and artwork.
+
+32. Q: Sora is primarily associated with which type of AI generation?
+    A: Video generation.
+
+33. Q: What is the name of OpenAI's current image-generation model family?
+    A: OpenAI's GPT Image family.
+
+34. Q: What does text-to-image mean?
+    A: Generating an image from a text description.
+
+35. Q: What does text-to-video mean?
+    A: Generating a video from a text description.
+
+36. Q: What does TTS stand for?
+    A: Text-to-Speech.
+
+37. Q: What does STT stand for?
+    A: Speech-to-Text.
+
+38. Q: What does OCR do?
+    A: Optical Character Recognition detects and extracts text from images or scanned documents.
+
+39. Q: What is a vision-language model?
+    A: An AI model that can understand both visual information and language.
+
+40. Q: What is voice cloning in AI?
+    A: Creating a synthetic voice that imitates a person's voice from audio samples.
+
+41. Q: GitHub Copilot is mainly used for what purpose?
+    A: AI-assisted coding, including code completion and suggestions.
+
+42. Q: Cursor is mainly used for what type of work?
+    A: AI-assisted software development and code editing.
+
+43. Q: What is an AI coding assistant?
+    A: A tool that helps developers write, explain, debug, or improve code using AI.
+
+44. Q: What hardware component is most commonly used to train large AI models?
+    A: GPU (Graphics Processing Unit).
+
+45. Q: What does GPU stand for?
+    A: Graphics Processing Unit.
+
+46. Q: What does NPU stand for?
+    A: Neural Processing Unit.
+
+47. Q: What is VRAM mainly used for during AI workloads?
+    A: Storing model parameters, data, and intermediate computations on the GPU.
+
+48. Q: What does running an AI model locally mean?
+    A: Running it on your own computer or device instead of relying on a remote server.
+
+49. Q: What is an open-weight AI model?
+    A: A model whose trained weights are publicly available, often subject to a license.
+
+50. Q: What is model distillation?
+    A: Training a smaller model to reproduce the capabilities or outputs of a larger model.
+
+51. Q: Which OpenAI model family includes Astra, Sol and Luna?
+    A: The GPT-6 model family.
+
+52. Q: Which OpenAI GPT-6 model is designed for the most demanding frontier work?
+    A: GPT-6 Astra.
+
+53. Q: Which Claude 5.5 model is positioned for complex agentic coding and knowledge work?
+    A: Claude Opus 5.5.
+
+54. Q: Which Claude 5.5 model is designed for fast, high-volume and cost-sensitive work?
+    A: Claude Haiku 5.5.
+
+55. Q: What is Google's Gemini 4 flagship model called?
+    A: Gemini 4.
+
+56. Q: What is the name of OpenAI's current model family for advanced image generation and editing?
+    A: GPT Image.
+
+57. Q: What is the name of OpenAI's current realtime voice model family?
+    A: GPT-Realtime.
+
+58. Q: Which company develops the Claude Opus, Sonnet and Haiku model families?
+    A: Anthropic.
+
+59. Q: What AI safety risk occurs when malicious instructions are hidden inside external content and try to control the model?
+    A: Prompt injection.
+
+60. Q: Why should important medical, legal, financial or business information generated by AI be verified by a human?
+    A: AI can make mistakes or produce misleading information, so important decisions require human verification.
